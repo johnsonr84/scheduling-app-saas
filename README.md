@@ -72,11 +72,11 @@ Designed as a **Calendly-class product**, Availio supports subscription tiers, m
 |-----|--------------|
 | ![Home](public/screenshots/home.png) | ![How It Works](public/screenshots/how-it-works.png) |
 
-### 📊 Dashboard & Features
+### 📊 Features
 
-| Feature Overview | User Dashboard |
-|------------------|----------------|
-| ![Features](public/screenshots/features.png) | ![Dashboard](public/screenshots/dashboard.png) |
+| Feature Overview |
+|------------------|
+| ![Features](public/screenshots/features.png) |
 
 ### 📅 Availability & Calendar
 
@@ -88,7 +88,7 @@ Designed as a **Calendly-class product**, Availio supports subscription tiers, m
 
 | Settings | Google Calendar Integration |
 |----------|-----------------------------|
-| ![Settings](docs/screenshots/settings.png) | ![Integration](docs/screenshots/integration.png) |
+| ![Settings](public/screenshots/settings.png) | ![Integration](public/screenshots/integration.png) |
 
 ---
 
