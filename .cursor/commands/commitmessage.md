@@ -1,0 +1,1 @@
+please-generate-a-copyable-to-clipboard-git-commit-m-for-any-staged-filefiles-when-i-type-the-word-staged-give-the-commit-a-type-scope-and-if-necessary-bullet-points
