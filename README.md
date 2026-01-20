@@ -69,26 +69,32 @@ Designed as a **Calendly-class product**, Availio supports subscription tiers, m
 ### 🏠 Landing & How It Works
 
 | Home | How It Works |
-|-----|--------------|
+|------|--------------|
 | ![Home](public/screenshots/home.png) | ![How It Works](public/screenshots/how-it-works.png) |
 
-### 📊 Features
+### 🔗 Integrations & Features
 
-| Feature Overview |
-|------------------|
-| ![Features](public/screenshots/features.png) |
+| Google Calendar Integration | Core Features |
+|-----------------------------|---------------|
+| ![Integration](public/screenshots/integration.png) | ![Features](public/screenshots/features.png) |
 
-### 📅 Availability & Calendar
+### 📆 Availability & Settings
 
-| Availability Calendar | Calendar Sync |
-|-----------------------|---------------|
-| ![Calendar](public/screenshots/calendar.png) | ![Integration](public/screenshots/integration.png) |
+| Availability Scheduler | Settings |
+|------------------------|----------|
+| ![Schedule](public/screenshots/schedule.png) | ![Settings](public/screenshots/settings.png) |
 
-### ⚙️ Settings & Integrations
+### 💳 Pricing & Bookings
 
-| Settings | Google Calendar Integration |
-|----------|-----------------------------|
-| ![Settings](public/screenshots/settings.png) | ![Integration](public/screenshots/integration.png) |
+| Pricing Plans | Your Bookings |
+|---------------|---------------|
+| ![Pricing](public/screenshots/pricing.png) | ![Your Bookings](public/screenshots/your-bookings.png) |
+
+### ✉️ Email Confirmation
+
+| Calendar & Email Invite |
+|-------------------------|
+| ![Email Confirmation](public/screenshots/email-confirmation.png) |
 
 ---
 
